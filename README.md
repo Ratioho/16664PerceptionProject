@@ -1,4 +1,4 @@
-#16-664 Perception Project
+# 16-664 Perception Project
 
 The basic idea is to do the two step classification:
 
